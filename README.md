@@ -25,7 +25,20 @@ Manual Parameter Identification
 
 This demonstrates the feasibility of workflow-based semi-automation.
 
+------
+
+## 🔎 Demo / Results
+
+Workflow（流程示意）  
+![Workflow](工程力学AI+Python绘图实践/工程力学AI+Python绘图实践.pdf)
+
+Shear Force Diagram and Bending Moment Diagram（剪力图和弯矩图）  
+![Shear](工程力学AI+Python绘图实践/受力图1.png)
+![Shear](工程力学AI+Python绘图实践/受力图2.png)
+![Shear](工程力学AI+Python绘图实践/受力图3.png)
+
 ---
+
 
 ## ⚙️ Workflow Overview
 
